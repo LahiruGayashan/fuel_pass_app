@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524722217906",
+    "project_id": "fuel-e8058",
+    "storage_bucket": "fuel-e8058.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524722217906:android:91b2010c438b2b1ab0baab",
+        "android_client_info": {
+          "package_name": "com.example.fuelpass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvaJflM0F6FyNEjGalTDhsydJaw2DiKT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
